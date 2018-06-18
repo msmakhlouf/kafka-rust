@@ -1,0 +1,10 @@
+{
+  "summary": {
+    "title": "test",
+    "description": "A kafka client in Rust"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
