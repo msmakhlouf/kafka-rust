@@ -1,10 +1,15 @@
 {
   "summary": {
     "title": "test",
-    "description": "A kafka client in Rust"
+    "description": "A kafka client in Rust",
+    "owner": "klkdf/lkadsf"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "jj"
+      }
+    ],
     "diagrams": [
       {
         "title": "test",
@@ -16,6 +21,7 @@
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 1
       }
-    ]
+    ],
+    "reviewer": "afdasfafd"
   }
 }
